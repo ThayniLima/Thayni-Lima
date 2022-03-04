@@ -2,4 +2,4 @@
 
 🏅Cursando Análise e Desenvolvimento de Sistemaa
 
-💻Atualmente Aprendendo sobre Banco de 🎲🎲 e JAVA☕
+💻Atualmente Aprendendo sobre Banco de 🎲🎲, JAVA☕ e JAVASCRIPT
